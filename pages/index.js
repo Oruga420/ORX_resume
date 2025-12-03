@@ -206,9 +206,6 @@ export default function Home() {
           <button className="btn" onClick={handlePrint}>
             Download as PDF
           </button>
-          <a className="btn outline" href="mailto:alex@seshwithfriends.org">
-            Contact Alejandro
-          </a>
         </div>
       </main>
     </>
